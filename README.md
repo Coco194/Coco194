@@ -1,9 +1,9 @@
-Front-End Developer in the Making 🌱
+Hey there, I'm Shaffaq👋
 -------------------------
 
-Hey there, I'm a passionate Front-End Developer on the journey to create beautiful, engaging user interfaces. Currently, I'm learning Javascript along with the React.js framework and I'm also interested in learning more about Back-End technologies ✨
+I'm a passionate Front-End Developer from Sri Lanka. Currently, I'm learning Javascript and also interested in learning more about Back-End technologies ✨
 
-Currently, I work with these technologies
+Currently, I work with these technologies 🚀
 * HTML
 * CSS
 * Javascript
